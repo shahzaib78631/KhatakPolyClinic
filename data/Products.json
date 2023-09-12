@@ -1,0 +1,8 @@
+[
+  {
+    id: 1,
+    name: "Panadol",
+    unitsPerBox: 8,
+    quantity: 2,
+    price: 40,
+]
