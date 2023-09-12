@@ -56,7 +56,7 @@ servers:
     -
         url: 'https://api.gitrows.com'
 paths:
-    /@github/shahzaib78631/KhatakPolyClinic/data/Products.json:
+    /@github/shahzaib78631/KhatakPolyClinic/data/products.json:
         get:
             description: 'Return a list of records'
             operationId: listRecords
