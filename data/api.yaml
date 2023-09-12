@@ -5,8 +5,8 @@ info:
         name: Shahzaib Ali
         url: 'https://github.com/shahzaib78631'
         email: shahzaib78631@gmail.com
-    x-gitrows-repository: 'https://github.com/shahzaib78631/KhatakPolyClinic/data/Products.json'
-    x-gitrows-api-path: '@github/shahzaib78631/KhatakPolyClinic/data/Products.json'
+    x-gitrows-repository: 'https://github.com/shahzaib78631/KhatakPolyClinic'
+    x-gitrows-api-path: 'https://api.gitrows.com/@github/shahzaib78631/KhatakPolyClinic/data/products.json'
     x-gitrows-keywords:
         - gitrows
     license:
